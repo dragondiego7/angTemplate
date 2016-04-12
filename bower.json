@@ -1,0 +1,21 @@
+{
+  "name": "angTemplate",
+  "homepage": "https://github.com/dragondiego7/angTemplate",
+  "authors": [
+    "dragondiego7 <dragondiego7@gmail.com>"
+  ],
+  "description": "Projeto básico de teste de angular.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
